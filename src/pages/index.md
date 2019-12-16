@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: これがタイトルです
+title: タイトルを変えてみました。
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
@@ -19,7 +19,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
+      text: |
         意味のわからないテキストを修正してみた
     - image: /img/coffee-gear.png
       text: >
