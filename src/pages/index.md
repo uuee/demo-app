@@ -20,7 +20,7 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-      意味のわからないテキストを修正してみた
+        意味のわからないテキストを修正してみた
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
